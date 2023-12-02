@@ -1,0 +1,56 @@
+h2 {
+    text-align: center;
+  }
+  
+  .input-group1 {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    justify-content: center;
+  }
+
+
+  .input-group1 input {
+    border: 1px solid black;
+    outline: none;
+    flex-grow: 1; 
+  }
+
+
+  .input-group1 button {
+    border: none;
+    background-color: green;
+    color: white;
+    padding: 8px 15px;
+    cursor: pointer;
+    margin-top: -5px;
+    font-size: 15px;
+  }
+
+  .input-group1 button:hover {
+    background-color: greenyellow;
+    color: black;
+  }
+  
+  .table1 {
+    margin-top: 5%;
+  }
+  
+  table {
+    margin: auto;
+    width: 70%;
+  }
+  
+  tr {
+    text-align: center;
+  }
+  
+  th {
+    width: 50%;
+  }
+  
+  td {
+    width: 20%;
+    padding: 25px;
+  }
+  
